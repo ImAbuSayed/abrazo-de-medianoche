@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-medianoche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Abrazo de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-medianoche/) |
+| **Get License** | [License this song: Abrazo de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-medianoche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 709a885583c646d9fa95cfe41ae50ff1c8b4b8e0
+> Mami, tú me miras y me quitas la razón
+> Un abrazo de medianoche, fuego en la habitación
+> Ese piquete tuyo siempre me roba el control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
