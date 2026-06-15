@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-medianoche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Abrazo de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-medianoche/) |
+| **Get License** | [Official Music Licensing for Abrazo de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-medianoche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `854afe1856546abe60abd419456c2b5b849a6795fb60a2cf2774616e807f4870` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

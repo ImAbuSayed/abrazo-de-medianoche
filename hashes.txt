@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abrazo de medianoche
+
+This log tracks the cryptographic history and versioning for the song **Abrazo de medianoche** (abrazo-de-medianoche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T22:00:51.755914 | `v1` | `854afe1856546abe60abd419456c2b5b849a6795fb60a2cf2774616e807f4870` | `0ad1aa58b77eb8898e750c251425d57433dc8a23c32dff59c860252091aef9c4` | `2026-06-15_abrazo-de-medianoche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
